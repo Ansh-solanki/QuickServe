@@ -29,6 +29,17 @@ The idea is to make local services accessible in just a few clicks.
 * Basic booking flow
 
 ---
+## 📸 Screenshots
+
+### Home Page
+![Home](images/home.png)
+
+### Dashboard
+![Dashboard](images/job.png)
+
+### Booking Page
+![Booking](images/booking.png)
+
 
 ### ⚙️ Backend (Spring Boot)
 
