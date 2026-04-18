@@ -35,7 +35,7 @@ The idea is to make local services accessible in just a few clicks.
 ![Home](images/home.png)
 
 ### Dashboard
-![Dashboard](images/job.png)
+![Dashboard](images/services.png)
 
 ### Booking Page
 ![Booking](images/booking.png)
